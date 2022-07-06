@@ -2,3 +2,8 @@ https://material.angular.io/guide/getting-started
 
 install angular Material: ng add @angular/material
 
+install json server: npm install -g json-server
+
+create fake json server nomée db.json : json-server --watch db.json
+
+=> db.json file created

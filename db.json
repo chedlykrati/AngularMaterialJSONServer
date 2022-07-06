@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "orange",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "this is not fresh ",
+      "date": "2022-07-11T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "a",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "a product",
+      "date": "2022-07-03T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "b",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 200,
+      "comment": "b",
+      "date": "2022-07-02T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "c",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 600,
+      "comment": "c",
+      "date": "2022-07-12T23:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "f",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 600,
+      "comment": "d",
+      "date": "2022-07-03T23:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
